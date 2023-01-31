@@ -5,6 +5,7 @@ A data type to represent a set of points in the unit square (all points have x- 
 
 2d-trees have numerous applications, ranging from classifying astronomical objects to computer animation to speeding up neural networks to mining data to image retrieval.
 
-![ClosestPoint](https://user-images.githubusercontent.com/117730334/215848800-b40937b7-bcb9-4add-b1da-bf9f44db12b5.png)
+
+<img width="284" alt="RangeSearch" src="https://user-images.githubusercontent.com/117730334/215848800-b40937b7-bcb9-4add-b1da-bf9f44db12b5.png">
 <img width="284" alt="RangeSearch" src="https://user-images.githubusercontent.com/117730334/215848824-23ba1194-c1f6-4c86-b870-6f84d1b0e1c4.png">
 
